@@ -28,18 +28,6 @@
 
 **环境要求**：Python 3.10+，一个[阿里云百炼](https://bailian.console.aliyun.com/)的 API Key。
 
-```bash
-# 1. 克隆仓库
-git clone https://github.com/Aqr0119/OH.git
-cd OH
-
-# 2. 安装依赖
-pip install -r requirements.txt
-
-# 3. 配置 API Key（Windows 用 set 或设置环境变量）
-export DASHSCOPE_API_KEY="你的百炼 API Key"
-```
-
 **运行**：
 
 ```bash
